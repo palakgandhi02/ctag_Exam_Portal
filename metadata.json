@@ -1,0 +1,8 @@
+{
+  "name": "C-TAG Exam Platform",
+  "description": "Secure AI-powered Online Exam Platform for C-TAG Institute with MCQ exams, proctoring, and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
